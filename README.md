@@ -9,3 +9,5 @@
 [정리노트: 호이스팅 (22.08.13)](https://github.com/1nno-vator/learn-archive/blob/main/markdown/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85(hoisting).md)
 ####
 [정리노트: 스코프 (22.08.13)](https://github.com/1nno-vator/learn-archive/blob/main/markdown/%EC%8A%A4%EC%BD%94%ED%94%84/%EC%8A%A4%EC%BD%94%ED%94%84.md)
+####
+[정리노트: var, let, const (22.08.14)](https://github.com/1nno-vator/learn-archive/blob/main/markdown/var_let_const/var_let_const.md)
